@@ -1,0 +1,43 @@
+ for (Wall w : walls) {
+      if (location.y+size.y/2 >= w.location.y-w.size.y/2 && location.y-size.y/2 <= w.location.y+w.size.y/2 ) { 
+        if (location.x+size.x/2 >= w.location.x-w.size.x/2 && location.x - size.x/2 <= w.location.x+w.size.x/2) {
+          //coll is true with wall
+          if (location.y-size.y/2 <= w.location.y-w.size.y/2) {
+            //up
+            collUp = true;
+            speed.y = 0;
+            moveDown = false;
+          } else {
+            collUp = false;
+          }
+          if (location.y+size.y/2 >= w.location.y+w.size.y/2) {
+            //down
+            collDown = true;
+            speed.y = 0;
+            moveUp = false;
+          } else {
+            collDown = false;
+          }
+          if (location.x-size.x/2 <= w.location.x-w.size.x/2) {
+            //left
+            collLeft = true;
+            speed.x = 0;
+            moveRight = false;
+          } else { 
+            collLeft = false;
+          }
+          if (location.x+size.x/2 >= w.location.x+w.size.x/2) {
+            //right
+            collRight = true;
+            speed.x = 0;
+            moveLeft = false;
+          } else {
+            collRight = false;
+          }
+        }
+      } else {
+        collUp = false; 
+        collDown = false; 
+        collLeft = false; 
+        collRight = false;
+      }

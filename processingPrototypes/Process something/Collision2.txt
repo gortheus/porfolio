@@ -1,0 +1,45 @@
+ //    if (location.y+size.y/2 > w.location.y+w.size.y/2 && location.y+size.y< w.location.y-w.size.y/2+21) {
+          //      if (location.x+size.x/2 > w.location.x - w.size.x/2 && location.x - size.x/2 < w.location.x+w.size.x/2) {
+          //        //up
+          //        location.y = w.location.y - w.size.y/2 - size.y/2 ;
+          //        collUp = true;
+          //        speed.y = 0;
+          //        moveDown = false;
+          //      }
+          //    } else { 
+          //      collUp = false;
+          //    }
+
+          //    if (location.y-size.y/2 < w.location.y+w.size.y/2 && location.y-size.y> w.location.y+w.size.y/2-21) {
+          //      if (location.x+size.x/2 > w.location.x - w.size.x/2 && location.x - size.x/2 < w.location.x+w.size.x/2) {
+          //        //down
+          //        location.y = w.location.y + w.size.y/2 + size.y/2 ;
+          //        collDown = true;
+          //        speed.y = 0;
+          //        moveUp = false;
+          //      }
+          //    } else {
+          //      collDown = false;
+          //    }
+          //    if (location.x+size.x/2 > w.location.x-w.size.x/2 && location.x+size.x/2 < w.location.x-w.size.x/2+21) {
+          //      if (location.y+size.y/2 > w.location.y - w.size.y/2 && location.y - size.y/2 < w.location.y+w.size.y/2) {
+          //        //left
+          //        location.x = w.location.x - w.size.x/2 - size.x/2 ;
+          //        collLeft = true;
+          //        speed.x = 0;
+          //        moveRight = false;
+          //      }
+          //    } else { 
+          //      collLeft = false;
+          //    }
+          //    if (location.x-size.x/2 < w.location.x+w.size.x/2 && location.x-size.x/2 > w.location.x+w.size.x/2-21) {
+          //      if (location.y+size.y/2 > w.location.y - w.size.y/2 && location.y - size.y/2 < w.location.y+w.size.y/2) {
+          //        //right
+          //        location.x = w.location.x + w.size.x/2 + size.x/2 ;
+          //        collRight = true;
+          //        speed.x = 0;
+          //        moveLeft = false;
+          //      }
+          //    } else {
+          //      collRight = false;
+          //    }

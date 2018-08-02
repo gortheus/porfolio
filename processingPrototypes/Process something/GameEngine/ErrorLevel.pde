@@ -1,0 +1,5 @@
+class ErrorLevel extends GameLevel{
+  
+  
+  
+}
