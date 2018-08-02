@@ -1,0 +1,1019 @@
+﻿Log file open, 05/15/18 13:37:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BrokenWhispers
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-873456010) SRandInit(-873456010).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.172734
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OSC
+LogStreaming: Display: Took  0.316s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Binaries/Win64/UE4Editor-BrokenWhispers.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Plugins/OSC/Binaries/Win64/UE4Editor-OSC.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Gortheus-laptop (192.168.32.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.037s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.15-18.37.40:856][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-18.37.40:856][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.15-18.37.40:902][  0]LogInit: Computer: GORTHEUS-LAPTOP
+[2018.05.15-18.37.40:902][  0]LogInit: User: Gortheus
+[2018.05.15-18.37.40:902][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.05.15-18.37.40:902][  0]LogInit: High frequency timer resolution =1.753829 MHz
+[2018.05.15-18.37.40:902][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.05.15-18.37.40:902][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.15-18.37.40:902][  0]LogMemory: Process Physical Memory: 273.61 MB used, 273.61 MB peak
+[2018.05.15-18.37.40:902][  0]LogMemory: Process Virtual Memory: 265.88 MB used, 265.88 MB peak
+[2018.05.15-18.37.40:902][  0]LogMemory: Physical Memory: 4003.13 MB used,  4070.15 MB free, 8073.27 MB total
+[2018.05.15-18.37.40:902][  0]LogMemory: Virtual Memory: 685.35 MB used,  4070.15 MB free, 134217728.00 MB total
+[2018.05.15-18.37.40:934][  0]LogInit: Using OS detected language (en-US).
+[2018.05.15-18.37.40:934][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.15-18.37.40:938][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.15-18.37.41:507][  0]LogStreaming: Display: Took  0.572s to EndInitTextLocalization.
+[2018.05.15-18.37.41:507][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.15-18.37.41:565][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.15-18.37.41:565][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.15-18.37.41:871][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.15-18.37.41:875][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.05.15-18.37.41:875][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.05.15-18.37.41:878][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.15-18.37.41:878][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.15-18.37.41:878][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.15-18.37.41:886][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.15-18.37.41:886][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.15-18.37.41:886][  0]LogWindows: EnumDisplayDevices:
+[2018.05.15-18.37.41:886][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.05.15-18.37.41:886][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.05.15-18.37.41:886][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.05.15-18.37.41:887][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.15-18.37.41:887][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2018.05.15-18.37.41:887][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.15-18.37.41:887][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.15-18.37.41:887][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2018.05.15-18.37.41:891][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.15-18.37.41:897][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.05.15-18.37.41:898][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Intermediate/Shaders/WorkingDirectory/19100/).
+[2018.05.15-18.37.41:898][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Gortheus/AppData/Local/Temp/UnrealShaderWorkingDir/F2C929564C40085C757D79A726D5BFB9/'.
+[2018.05.15-18.37.42:296][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.15-18.37.42:317][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.15-18.37.42:339][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.15-18.37.42:361][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.15-18.37.42:382][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.15-18.37.42:403][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.15-18.37.42:422][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.15-18.37.42:444][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.15-18.37.42:453][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.15-18.37.42:472][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.15-18.37.42:490][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.15-18.37.42:508][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.15-18.37.42:526][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.15-18.37.42:544][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.15-18.37.42:562][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.15-18.37.42:598][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.15-18.37.42:598][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.15-18.37.42:616][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.15-18.37.42:618][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.15-18.37.42:662][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.15-18.37.42:680][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.15-18.37.42:698][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.15-18.37.42:716][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.15-18.37.42:735][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.15-18.37.42:756][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.15-18.37.42:757][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.15-18.37.42:903][  0]LogXGEController: Cleaning working directory: C:/Users/Gortheus/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.15-18.37.42:903][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.15-18.37.42:903][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.15-18.37.42:903][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.15-18.37.43:986][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.15-18.37.44:074][  0]LogDerivedDataCache: Loaded boot cache 0.09s 74MB C:/Users/Gortheus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.15-18.37.44:074][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Gortheus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.15-18.37.44:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.15-18.37.44:074][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.15-18.37.44:074][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.15-18.37.44:074][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.15-18.37.44:096][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.15-18.37.44:110][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Gortheus/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.15-18.37.44:128][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.15-18.37.44:129][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.15-18.37.44:129][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-18.37.44:130][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.15-18.37.44:296][  0]LogAssetRegistry: FAssetRegistry took 0.0286 seconds to start up
+[2018.05.15-18.37.44:863][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.15-18.37.45:077][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.15-18.37.45:081][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.15-18.37.45:081][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.15-18.37.45:081][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.15-18.37.45:081][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.15-18.37.45:081][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.15-18.37.45:120][  0]LogNetVersion: BrokenWhispers , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3838596659)
+[2018.05.15-18.37.45:960][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.256248 seconds
+[2018.05.15-18.37.45:967][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.15-18.37.45:967][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.15-18.37.45:967][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.15-18.37.48:301][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.15-18.37.48:336][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.15-18.37.48:639][  0]LogOSC: Display: Update settings
+[2018.05.15-18.37.48:639][  0]LogOSC: Display: Send targets cleared
+[2018.05.15-18.37.48:639][  0]LogOSC: Display: Send target added: 10.17.81.7:33001
+[2018.05.15-18.37.48:639][  0]LogOSC: Display: Startup succeed
+[2018.05.15-18.37.48:890][  0]SourceControl: Source control is disabled
+[2018.05.15-18.37.48:890][  0]SourceControl: Source control is disabled
+[2018.05.15-18.37.48:913][  0]SourceControl: Source control is disabled
+[2018.05.15-18.37.48:935][  0]SourceControl: Source control is disabled
+[2018.05.15-18.37.49:581][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.15-18.37.49:757][  0]LogOcInput: OculusInput pre-init called
+[2018.05.15-18.37.49:898][  0]LogEngine: Initializing Engine...
+[2018.05.15-18.37.49:901][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.15-18.37.49:904][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-18.37.49:904][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-18.37.50:222][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.15-18.37.50:248][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-18.37.50:421][  0]LogInit: FAudioDevice initialized.
+[2018.05.15-18.37.50:927][  0]LogDerivedDataCache: Saved boot cache 0.51s 74MB C:/Users/Gortheus/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.15-18.37.50:936][  0]LogInit: Texture streaming: Enabled
+[2018.05.15-18.37.50:959][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.15-18.37.50:978][  0]LogInit: Transaction tracking system initialized
+[2018.05.15-18.37.51:018][  0]BlueprintLog: New page: Editor Load
+[2018.05.15-18.37.51:337][  0]LocalizationService: Localization service is disabled
+[2018.05.15-18.37.51:616][  0]LogConsoleResponse: Display: 
+[2018.05.15-18.37.51:948][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.15-18.37.51:948][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.15-18.37.51:948][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.15-18.37.51:948][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.15-18.37.51:948][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.15-18.37.52:446][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Content/' took 0.12s
+[2018.05.15-18.37.52:519][  0]SourceControl: Source control is disabled
+[2018.05.15-18.37.52:519][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.15-18.37.52:520][  0]LightingResults: New page: Lighting Build
+[2018.05.15-18.37.52:523][  0]MapCheck: New page: Map Check
+[2018.05.15-18.37.52:524][  0]LightingResults: New page: Lighting Build
+[2018.05.15-18.37.52:959][  0]LogBlueprint: Error: [Compiler PersistentLevel.Level1] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2018.05.15-18.37.52:962][  0]LogBlueprint: Warning: [Compiler PersistentLevel.Level1] [0016.15] Compile of PersistentLevel.Level1 failed. 1 Fatal Issue(s) 0 Warning(s) [in 37 ms] (/Game/Maps/Level1.Level1:PersistentLevel.Level1)
+[2018.05.15-18.37.53:409][  0]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-18.37.53:485][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.15-18.37.53:520][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.15-18.37.53:596][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.22ms to complete.
+[2018.05.15-18.37.53:597][  0]LogFileHelpers: Loading map 'Level1' took 1.077
+[2018.05.15-18.37.53:800][  0]LogCollectionManager: Loaded 0 collections in 0.002385 seconds
+[2018.05.15-18.37.53:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Collections/' took 0.01s
+[2018.05.15-18.37.53:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Content/Developers/Gortheus/Collections/' took 0.01s
+[2018.05.15-18.37.53:847][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Content/Collections/' took 0.01s
+[2018.05.15-18.37.53:847][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.15-18.37.53:862][  0]LogContentBrowser: Native class hierarchy populated in 0.0150 seconds. Added 2457 classes and 565 folders.
+[2018.05.15-18.37.53:872][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.15-18.37.53:932][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.15-18.37.53:939][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2018.05.15-18.37.54:041][  0]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.15-18.37.54:044][  0]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.15-18.37.54:052][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.15-18.37.54:213][  0]LogRenderer: Reallocating scene render targets to support 700x344 Format 9 NumSamples 1 (Frame:1).
+[2018.05.15-18.37.55:380][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2018.05.15-18.37.55:381][  0]LogLoad: (Engine Initialization) Total time: 18.57 seconds
+[2018.05.15-18.37.55:381][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.15-18.37.55:716][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.15-18.37.55:739][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.05.15-18.37.55:753][  0]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.15-18.37.56:073][  1]LogAssetRegistry: Asset discovery search completed in 11.7993 seconds
+[2018.05.15-18.37.56:076][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.15-18.37.56:076][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000092 seconds (updated 0 objects)
+[2018.05.15-18.37.56:731][  3]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.15-18.37.58:390][  8]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-18.38.35:010][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-18.38.36:126][318]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0014 seconds. Added 116 classes and 0 folders.
+[2018.05.15-18.38.38:245][318]LogLinker: Warning: Can't resolve asset name
+[2018.05.15-18.38.39:058][318]LogSlate: Took 0.033118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.15-18.38.40:040][319]LogSlate: Took 0.016957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: libcurl info message cache 0 (  Trying 52.207.107.232...)
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: libcurl info message cache 1 (Connected to datarouter.ol.epicgames.com (52.207.107.232) port 443 (#0))
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: libcurl info message cache 2 (ALPN, offering http/1.1)
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: libcurl info message cache 3 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: libcurl info message cache 4 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: libcurl info message cache 6 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.38.56:736][856]LogHttp: Warning: 0000019C2D1BEC80: libcurl info message cache 7 (Closing connection 0)
+[2018.05.15-18.40.57:253][756]LogHttp: Warning: 0000019C30F24400: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.40.57:253][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.40.57:253][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 1 (  Trying 52.205.79.197...)
+[2018.05.15-18.40.57:253][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.79.197) port 443 (#1))
+[2018.05.15-18.40.57:253][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.40.57:253][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.40.57:253][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.40.57:255][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.40.57:255][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.40.57:255][756]LogHttp: Warning: 0000019C30F24400: libcurl info message cache 8 (Closing connection 1)
+[2018.05.15-18.41.40:853][175]LogSlate: Window 'Tree*' being destroyed
+[2018.05.15-18.42.01:131][514]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.42.45:104][894]LogEditorViewport: Clicking on Actor (LMB): Tree_C (Tree)
+[2018.05.15-18.42.45:701][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-18.42.49:300][258]LogRenderer: Reallocating scene render targets to support 848x464 Format 9 NumSamples 1 (Frame:1).
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 1 (  Trying 35.168.132.219...)
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.168.132.219) port 443 (#2))
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.42.57:334][795]LogHttp: Warning: 0000019C3152F400: libcurl info message cache 8 (Closing connection 2)
+[2018.05.15-18.44.48:643][493]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 1 (  Trying 52.44.209.208...)
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.44.209.208) port 443 (#3))
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.44.57:392][482]LogHttp: Warning: 0000019C0B94A500: libcurl info message cache 8 (Closing connection 3)
+[2018.05.15-18.45.21:810][ 10]BlueprintLog: New page: Compile Level1
+[2018.05.15-18.45.21:895][ 10]LogBlueprint: Error: [Compiler PersistentLevel.Level1] The current value of the ' Event ' pin is invalid: Unsupported type Delegate on pin Delegate
+[2018.05.15-18.45.22:101][ 10]LogBlueprint: Warning: [Compiler PersistentLevel.Level1] [0465.29] Compile of PersistentLevel.Level1 failed. 1 Fatal Issue(s) 0 Warning(s) [in 290 ms] (/Game/Maps/Level1.Level1:PersistentLevel.Level1)
+[2018.05.15-18.45.56:044][717]BlueprintLog: New page: Compile Level1
+[2018.05.15-18.46.34:252][861]LogSlate: Window 'Tutorials' being destroyed
+[2018.05.15-18.46.35:938][  9]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2018.05.15-18.46.35:938][  9]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2018.05.15-18.46.37:349][138]LogUObjectGlobals: Warning: Failed to find object 'Object None.MyBlueprintPanel'
+[2018.05.15-18.46.38:722][265]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2018.05.15-18.46.57:441][281]LogHttp: Warning: 0000019C8F6BAF80: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.46.57:441][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.46.57:441][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 1 (  Trying 34.236.137.99...)
+[2018.05.15-18.46.57:441][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.137.99) port 443 (#4))
+[2018.05.15-18.46.57:442][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.46.57:442][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.46.57:442][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.46.57:442][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.46.57:442][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.46.57:442][281]LogHttp: Warning: 0000019C8F6BAF80: libcurl info message cache 8 (Closing connection 4)
+[2018.05.15-18.47.42:198][401]BlueprintLog: New page: Compile Level1
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 1 (  Trying 34.206.173.2...)
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.173.2) port 443 (#5))
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.48.57:539][792]LogHttp: Warning: 0000019C97915000: libcurl info message cache 8 (Closing connection 5)
+[2018.05.15-18.49.01:202][972]LogSavePackage: Save=1620.19ms
+[2018.05.15-18.49.01:202][972]LogSavePackage: Moving '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Level1_Auto10493B89A463750DD8366828C4773A9B1.tmp' to '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Maps/Level1_Auto1.umap'
+[2018.05.15-18.49.01:293][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Maps/Level1_Auto1.umap
+[2018.05.15-18.49.01:382][972]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 2.232
+[2018.05.15-18.49.01:391][972]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.232
+[2018.05.15-18.49.01:397][972]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Traps/Tree] ([1] browsable assets)...
+[2018.05.15-18.49.01:476][972]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Traps/Tree.Tree]
+[2018.05.15-18.49.01:476][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Traps/Tree]
+[2018.05.15-18.49.01:571][972]LogSavePackage: Save=59.79ms
+[2018.05.15-18.49.01:571][972]LogSavePackage: Moving '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Tree_Auto1C02527F94ACD3F3D6030348725E0FD67.tmp' to '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Blueprints/Traps/Tree_Auto1.uasset'
+[2018.05.15-18.49.01:616][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Blueprints/Traps/Tree_Auto1.uasset
+[2018.05.15-18.49.01:620][972]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/PlayerOne] ([1] browsable assets)...
+[2018.05.15-18.49.01:620][972]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/PlayerOne]
+[2018.05.15-18.49.01:777][972]LogSavePackage: Save=145.98ms
+[2018.05.15-18.49.01:777][972]LogSavePackage: Moving '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/PlayerOne_Auto15280215540D6B9667B2E2D86E64978CB.tmp' to '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Blueprints/Player/PlayerOne_Auto1.uasset'
+[2018.05.15-18.49.01:810][972]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Blueprints/Player/PlayerOne_Auto1.uasset
+[2018.05.15-18.49.01:810][972]LogFileHelpers: Auto-saving content packages took 0.416
+[2018.05.15-18.50.02:997][385]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Traps/Tree" FILE="../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Content/Blueprints/Traps/Tree.uasset" SILENT=true
+[2018.05.15-18.50.03:042][385]LogSavePackage: Save=35.81ms
+[2018.05.15-18.50.03:042][385]LogSavePackage: Moving '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Tree0D0FD81449ED00E7DEFE86B77F272D0D.tmp' to '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Content/Blueprints/Traps/Tree.uasset'
+[2018.05.15-18.50.03:059][385]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Content/Blueprints/Traps/Tree.uasset
+[2018.05.15-18.50.04:374][516]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.50.19:753][111]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-18.50.19:931][111]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.50.20:097][111]LogOSC: Display: Stop listening
+[2018.05.15-18.50.20:109][111]LogOSC: Display: Listen to port 33000
+[2018.05.15-18.50.20:177][111]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-18.50.20:351][111]PIE: New page: PIE session: Level1 (May 15, 2018, 8:50:20 AM)
+[2018.05.15-18.50.20:368][111]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-18.50.20:541][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.172844s)
+[2018.05.15-18.50.20:542][111]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-18.50.20:551][111]LogPlayLevel: PIE: World Init took: (0.009810s)
+[2018.05.15-18.50.20:551][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.182989s)
+[2018.05.15-18.50.20:634][111]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-18.50.20:667][111]LogInit: FAudioDevice initialized.
+[2018.05.15-18.50.20:782][111]LogLoad: Game class is 'Game_C'
+[2018.05.15-18.50.20:925][111]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-13.50.20
+[2018.05.15-18.50.21:044][111]LogWorld: Bringing up level for play took: 0.125735
+[2018.05.15-18.50.21:407][111]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0068 seconds. Added 11 classes and 0 folders.
+[2018.05.15-18.50.21:709][111]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.GameWidget_C_0
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-18.50.21:717][111]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-18.50.21:732][111]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.GameWidget_C_0
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-18.50.21:732][111]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-18.50.21:782][111]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 1.881
+[2018.05.15-18.50.21:784][111]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.50.22:335][112]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.054482 > MaxSimulationTimeStep (0.050) for 'PlayerOne_C_0', movement 'Walking'
+[2018.05.15-18.50.31:827][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.50.31:877][586]LogOSC: Display: Stop listening
+[2018.05.15-18.50.32:220][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.50.34:997][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 1 (  Trying 52.201.67.204...)
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.201.67.204) port 443 (#6))
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.50.57:611][237]LogHttp: Warning: 0000019C981DB280: libcurl info message cache 8 (Closing connection 6)
+[2018.05.15-18.51.29:930][584]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.52.22:437][267]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.52.30:708][148]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.52.51:408][311]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.52.53:347][446]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-18.52.53:376][446]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.52.53:377][446]LogOSC: Display: Stop listening
+[2018.05.15-18.52.53:389][446]LogOSC: Display: Listen to port 33000
+[2018.05.15-18.52.53:389][446]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-18.52.53:389][446]PIE: New page: PIE session: Level1 (May 15, 2018, 8:52:53 AM)
+[2018.05.15-18.52.53:389][446]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-18.52.53:423][446]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033774s)
+[2018.05.15-18.52.53:424][446]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-18.52.53:424][446]LogPlayLevel: PIE: World Init took: (0.001304s)
+[2018.05.15-18.52.53:424][446]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.035351s)
+[2018.05.15-18.52.53:464][446]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-18.52.53:499][446]LogInit: FAudioDevice initialized.
+[2018.05.15-18.52.53:516][446]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_4840_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-18.52.53:543][446]LogLoad: Game class is 'Game_C'
+[2018.05.15-18.52.53:550][446]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-13.52.53
+[2018.05.15-18.52.53:550][446]LogWorld: Bringing up level for play took: 0.006072
+[2018.05.15-18.52.53:554][446]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameWidget_C_1
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-18.52.53:554][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-18.52.53:555][446]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.GameWidget_C_1
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-18.52.53:555][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-18.52.53:555][446]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.345
+[2018.05.15-18.52.53:556][446]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.52.57:698][640]LogHttp: Warning: 0000019C9020A980: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.52.57:698][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.52.57:698][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 1 (  Trying 34.234.148.21...)
+[2018.05.15-18.52.57:698][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.148.21) port 443 (#7))
+[2018.05.15-18.52.57:698][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.52.57:698][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.52.57:698][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.52.57:698][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.52.57:699][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.52.57:699][640]LogHttp: Warning: 0000019C9020A980: libcurl info message cache 8 (Closing connection 7)
+[2018.05.15-18.53.00:969][814]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.53.00:969][814]LogOSC: Display: Stop listening
+[2018.05.15-18.53.01:053][814]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.53.01:828][863]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-18.53.18:667][469]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.53.20:277][573]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-18.53.20:310][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.53.20:310][573]LogOSC: Display: Stop listening
+[2018.05.15-18.53.20:321][573]LogOSC: Display: Listen to port 33000
+[2018.05.15-18.53.20:321][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-18.53.20:321][573]PIE: New page: PIE session: Level1 (May 15, 2018, 8:53:20 AM)
+[2018.05.15-18.53.20:322][573]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-18.53.20:358][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036210s)
+[2018.05.15-18.53.20:359][573]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-18.53.20:359][573]LogPlayLevel: PIE: World Init took: (0.000920s)
+[2018.05.15-18.53.20:359][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.037362s)
+[2018.05.15-18.53.20:392][573]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-18.53.20:425][573]LogInit: FAudioDevice initialized.
+[2018.05.15-18.53.20:444][573]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_1f44_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-18.53.20:459][573]LogLoad: Game class is 'Game_C'
+[2018.05.15-18.53.20:465][573]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-13.53.20
+[2018.05.15-18.53.20:466][573]LogWorld: Bringing up level for play took: 0.006346
+[2018.05.15-18.53.20:470][573]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.GameWidget_C_2
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-18.53.20:471][573]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-18.53.20:471][573]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_2.GameWidget_C_2
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-18.53.20:472][573]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-18.53.20:472][573]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.572
+[2018.05.15-18.53.20:472][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.53.25:348][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.53.25:349][804]LogOSC: Display: Stop listening
+[2018.05.15-18.53.25:516][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-18.53.28:928][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-18.53.54:048][224]LogSlate: Window 'Delete Variable' being destroyed
+[2018.05.15-18.54.51:749][754]LogSlate: Took 0.010628 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.15-18.54.57:797][448]LogHttp: Warning: 0000019C82594A00: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.54.57:797][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.54.57:797][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 1 (  Trying 34.232.82.35...)
+[2018.05.15-18.54.57:797][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.232.82.35) port 443 (#8))
+[2018.05.15-18.54.57:798][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.54.57:798][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.54.57:798][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.54.57:798][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.54.57:798][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.54.57:798][448]LogHttp: Warning: 0000019C82594A00: libcurl info message cache 8 (Closing connection 8)
+[2018.05.15-18.55.42:077][469]BlueprintLog: New page: Compile Tree
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 1 (  Trying 35.173.61.154...)
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.173.61.154) port 443 (#9))
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.56.57:879][527]LogHttp: Warning: 0000019CA0936E00: libcurl info message cache 8 (Closing connection 9)
+[2018.05.15-18.58.57:992][950]LogHttp: Warning: 0000019CA3BAF700: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-18.58.57:992][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-18.58.57:993][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 1 (  Trying 52.22.151.230...)
+[2018.05.15-18.58.57:993][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.22.151.230) port 443 (#10))
+[2018.05.15-18.58.57:993][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-18.58.57:993][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-18.58.57:993][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-18.58.57:993][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-18.58.57:993][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-18.58.57:993][950]LogHttp: Warning: 0000019CA3BAF700: libcurl info message cache 8 (Closing connection 10)
+[2018.05.15-18.59.27:234][337]LogSavePackage: Save=644.19ms
+[2018.05.15-18.59.27:234][337]LogSavePackage: Moving '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Level1_Auto22011359543DFE7EF06F954B61E006809.tmp' to '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Maps/Level1_Auto2.umap'
+[2018.05.15-18.59.27:336][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Maps/Level1_Auto2.umap
+[2018.05.15-18.59.27:342][337]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level1' took 0.872
+[2018.05.15-18.59.27:342][337]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.872
+[2018.05.15-18.59.27:347][337]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Traps/Tree] ([1] browsable assets)...
+[2018.05.15-18.59.27:402][337]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Traps/Tree.Tree]
+[2018.05.15-18.59.27:402][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Traps/Tree]
+[2018.05.15-18.59.27:457][337]LogSavePackage: Save=44.72ms
+[2018.05.15-18.59.27:457][337]LogSavePackage: Moving '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Tree_Auto294B7EDA4401794BDBE932FB53397FC16.tmp' to '../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Blueprints/Traps/Tree_Auto2.uasset'
+[2018.05.15-18.59.27:490][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Gortheus/Desktop/Capstone2018/BrokenWhispers/Saved/Autosaves/Game/Blueprints/Traps/Tree_Auto2.uasset
+[2018.05.15-18.59.27:491][337]LogFileHelpers: Auto-saving content packages took 0.146
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 1 (  Trying 34.206.173.2...)
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.206.173.2) port 443 (#11))
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.00.58:082][155]LogHttp: Warning: 0000019CA3BAE380: libcurl info message cache 8 (Closing connection 11)
+[2018.05.15-19.02.58:145][297]LogHttp: Warning: 0000019CA3BF2B00: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.02.58:145][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.02.58:145][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 1 (  Trying 34.232.103.5...)
+[2018.05.15-19.02.58:145][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.232.103.5) port 443 (#12))
+[2018.05.15-19.02.58:145][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.02.58:145][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.02.58:145][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.02.58:146][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.02.58:146][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.02.58:146][297]LogHttp: Warning: 0000019CA3BF2B00: libcurl info message cache 8 (Closing connection 12)
+[2018.05.15-19.03.03:390][808]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.03.22:101][599]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::MakeRotator' [Element not found.]
+[2018.05.15-19.03.50:067][561]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.04.52:663][358]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 1 (  Trying 52.2.36.251...)
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.36.251) port 443 (#13))
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.04.58:195][853]LogHttp: Warning: 0000019C82187400: libcurl info message cache 8 (Closing connection 13)
+[2018.05.15-19.05.03:696][451]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.06.54:360][666]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 1 (  Trying 34.236.179.145...)
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.236.179.145) port 443 (#14))
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.06.58:263][ 25]LogHttp: Warning: 0000019C90010400: libcurl info message cache 8 (Closing connection 14)
+[2018.05.15-19.07.13:390][669]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.08.58:375][488]LogHttp: Warning: 0000019CA9A96C80: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.08.58:375][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.08.58:375][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 1 (  Trying 52.206.180.56...)
+[2018.05.15-19.08.58:376][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.206.180.56) port 443 (#15))
+[2018.05.15-19.08.58:376][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.08.58:376][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.08.58:376][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.08.58:376][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.08.58:376][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.08.58:376][488]LogHttp: Warning: 0000019CA9A96C80: libcurl info message cache 8 (Closing connection 15)
+[2018.05.15-19.09.31:564][579]BlueprintLog: New page: Compile Level1
+[2018.05.15-19.09.39:283][272]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-19.09.39:370][272]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.09.39:370][272]LogOSC: Display: Stop listening
+[2018.05.15-19.09.39:383][272]LogOSC: Display: Listen to port 33000
+[2018.05.15-19.09.39:383][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-19.09.39:383][272]PIE: New page: PIE session: Level1 (May 15, 2018, 9:09:39 AM)
+[2018.05.15-19.09.39:383][272]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-19.09.39:421][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037757s)
+[2018.05.15-19.09.39:422][272]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-19.09.39:422][272]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2018.05.15-19.09.39:422][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.039360s)
+[2018.05.15-19.09.39:461][272]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-19.09.39:501][272]LogInit: FAudioDevice initialized.
+[2018.05.15-19.09.39:522][272]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_3f34_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-19.09.39:537][272]LogLoad: Game class is 'Game_C'
+[2018.05.15-19.09.39:543][272]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-14.09.39
+[2018.05.15-19.09.39:544][272]LogWorld: Bringing up level for play took: 0.006055
+[2018.05.15-19.09.39:549][272]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.GameWidget_C_3
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-19.09.39:549][272]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.09.39:550][272]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.GameWidget_C_3
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-19.09.39:550][272]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.09.39:550][272]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.35
+[2018.05.15-19.09.39:550][272]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.09.51:845][877]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.09.51:845][877]LogOSC: Display: Stop listening
+[2018.05.15-19.09.51:980][877]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.09.52:666][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-19.10.15:281][123]BlueprintLog: New page: Compile Level1
+[2018.05.15-19.10.16:619][220]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-19.10.16:642][220]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.10.16:642][220]LogOSC: Display: Stop listening
+[2018.05.15-19.10.16:654][220]LogOSC: Display: Listen to port 33000
+[2018.05.15-19.10.16:654][220]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-19.10.16:655][220]PIE: New page: PIE session: Level1 (May 15, 2018, 9:10:16 AM)
+[2018.05.15-19.10.16:655][220]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-19.10.16:689][220]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034140s)
+[2018.05.15-19.10.16:690][220]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-19.10.16:690][220]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2018.05.15-19.10.16:690][220]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.035318s)
+[2018.05.15-19.10.16:722][220]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-19.10.16:755][220]LogInit: FAudioDevice initialized.
+[2018.05.15-19.10.16:772][220]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_4f88_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-19.10.16:787][220]LogLoad: Game class is 'Game_C'
+[2018.05.15-19.10.16:794][220]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-14.10.16
+[2018.05.15-19.10.16:794][220]LogWorld: Bringing up level for play took: 0.006092
+[2018.05.15-19.10.16:798][220]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.GameWidget_C_4
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-19.10.16:799][220]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.10.16:799][220]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.GameWidget_C_4
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-19.10.16:800][220]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.10.16:800][220]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.899
+[2018.05.15-19.10.16:800][220]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.10.25:599][629]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.10.25:600][629]LogOSC: Display: Stop listening
+[2018.05.15-19.10.25:740][629]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.10.26:699][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-19.10.53:444][317]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.10.55:954][500]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-19.10.55:989][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.10.55:989][500]LogOSC: Display: Stop listening
+[2018.05.15-19.10.56:001][500]LogOSC: Display: Listen to port 33000
+[2018.05.15-19.10.56:001][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-19.10.56:001][500]PIE: New page: PIE session: Level1 (May 15, 2018, 9:10:56 AM)
+[2018.05.15-19.10.56:002][500]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-19.10.56:035][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033069s)
+[2018.05.15-19.10.56:035][500]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-19.10.56:036][500]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2018.05.15-19.10.56:036][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.034201s)
+[2018.05.15-19.10.56:067][500]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-19.10.56:098][500]LogInit: FAudioDevice initialized.
+[2018.05.15-19.10.56:120][500]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_2da4_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-19.10.56:135][500]LogLoad: Game class is 'Game_C'
+[2018.05.15-19.10.56:141][500]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-14.10.56
+[2018.05.15-19.10.56:142][500]LogWorld: Bringing up level for play took: 0.006213
+[2018.05.15-19.10.56:145][500]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.GameWidget_C_5
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-19.10.56:146][500]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.10.56:146][500]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_5.GameWidget_C_5
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-19.10.56:147][500]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.10.56:147][500]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.247
+[2018.05.15-19.10.56:148][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 1 (  Trying 52.201.67.204...)
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.201.67.204) port 443 (#16))
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.10.58:452][599]LogHttp: Warning: 0000019CAB5EFB80: libcurl info message cache 8 (Closing connection 16)
+[2018.05.15-19.11.02:857][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.11.02:857][815]LogOSC: Display: Stop listening
+[2018.05.15-19.11.02:953][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.11.03:571][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-19.11.43:905][630]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.11.46:021][793]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-19.11.46:050][793]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.11.46:050][793]LogOSC: Display: Stop listening
+[2018.05.15-19.11.46:062][793]LogOSC: Display: Listen to port 33000
+[2018.05.15-19.11.46:062][793]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-19.11.46:063][793]PIE: New page: PIE session: Level1 (May 15, 2018, 9:11:46 AM)
+[2018.05.15-19.11.46:063][793]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-19.11.46:098][793]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035018s)
+[2018.05.15-19.11.46:099][793]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-19.11.46:099][793]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2018.05.15-19.11.46:099][793]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.036268s)
+[2018.05.15-19.11.46:131][793]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-19.11.46:161][793]LogInit: FAudioDevice initialized.
+[2018.05.15-19.11.46:182][793]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_329c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-19.11.46:197][793]LogLoad: Game class is 'Game_C'
+[2018.05.15-19.11.46:203][793]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-14.11.46
+[2018.05.15-19.11.46:204][793]LogWorld: Bringing up level for play took: 0.006199
+[2018.05.15-19.11.46:207][793]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.GameWidget_C_6
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-19.11.46:208][793]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.11.46:208][793]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_6.GameWidget_C_6
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-19.11.46:208][793]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.11.46:209][793]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.308
+[2018.05.15-19.11.46:209][793]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.11.52:261][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.11.52:262][113]LogOSC: Display: Stop listening
+[2018.05.15-19.11.52:320][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.11.53:350][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-19.12.18:093][708]BlueprintLog: New page: Compile Level1
+[2018.05.15-19.12.19:631][835]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-19.12.19:655][835]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.12.19:655][835]LogOSC: Display: Stop listening
+[2018.05.15-19.12.19:666][835]LogOSC: Display: Listen to port 33000
+[2018.05.15-19.12.19:666][835]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-19.12.19:666][835]PIE: New page: PIE session: Level1 (May 15, 2018, 9:12:19 AM)
+[2018.05.15-19.12.19:666][835]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-19.12.19:704][835]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037266s)
+[2018.05.15-19.12.19:705][835]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-19.12.19:705][835]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2018.05.15-19.12.19:705][835]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.038780s)
+[2018.05.15-19.12.19:738][835]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-19.12.19:774][835]LogInit: FAudioDevice initialized.
+[2018.05.15-19.12.19:795][835]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_ad4_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-19.12.19:810][835]LogLoad: Game class is 'Game_C'
+[2018.05.15-19.12.19:818][835]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-14.12.19
+[2018.05.15-19.12.19:819][835]LogWorld: Bringing up level for play took: 0.008009
+[2018.05.15-19.12.19:822][835]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.GameWidget_C_7
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-19.12.19:822][835]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.12.19:823][835]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.GameWidget_C_7
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-19.12.19:823][835]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.12.19:823][835]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 -0.077
+[2018.05.15-19.12.19:824][835]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.12.33:638][607]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.12.33:639][607]LogOSC: Display: Stop listening
+[2018.05.15-19.12.33:757][607]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.12.34:426][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-19.12.44:784][711]BlueprintLog: New page: Compile Level1
+[2018.05.15-19.12.46:077][807]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-19.12.46:099][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.12.46:099][807]LogOSC: Display: Stop listening
+[2018.05.15-19.12.46:111][807]LogOSC: Display: Listen to port 33000
+[2018.05.15-19.12.46:111][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-19.12.46:111][807]PIE: New page: PIE session: Level1 (May 15, 2018, 9:12:46 AM)
+[2018.05.15-19.12.46:111][807]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-19.12.46:149][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038086s)
+[2018.05.15-19.12.46:150][807]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-19.12.46:150][807]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2018.05.15-19.12.46:150][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.039262s)
+[2018.05.15-19.12.46:184][807]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-19.12.46:214][807]LogInit: FAudioDevice initialized.
+[2018.05.15-19.12.46:234][807]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_2b30_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-19.12.46:249][807]LogLoad: Game class is 'Game_C'
+[2018.05.15-19.12.46:256][807]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-14.12.46
+[2018.05.15-19.12.46:256][807]LogWorld: Bringing up level for play took: 0.006289
+[2018.05.15-19.12.46:259][807]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.GameWidget_C_8
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-19.12.46:260][807]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.12.46:260][807]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_8.GameWidget_C_8
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-19.12.46:260][807]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.12.46:260][807]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.36
+[2018.05.15-19.12.46:261][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.12.58:530][462]LogHttp: Warning: 0000019C91632E00: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.12.58:530][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.12.58:530][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 1 (  Trying 34.201.203.98...)
+[2018.05.15-19.12.58:530][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.201.203.98) port 443 (#17))
+[2018.05.15-19.12.58:530][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.12.58:530][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.12.58:530][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.12.58:531][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.12.58:531][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.12.58:531][462]LogHttp: Warning: 0000019C91632E00: libcurl info message cache 8 (Closing connection 17)
+[2018.05.15-19.13.02:579][666]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.13.02:579][666]LogOSC: Display: Stop listening
+[2018.05.15-19.13.02:711][666]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.13.03:707][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-19.13.40:418][ 25]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.13.42:153][142]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.15-19.13.42:186][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.13.42:186][142]LogOSC: Display: Stop listening
+[2018.05.15-19.13.42:198][142]LogOSC: Display: Listen to port 33000
+[2018.05.15-19.13.42:198][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.15-19.13.42:198][142]PIE: New page: PIE session: Level1 (May 15, 2018, 9:13:42 AM)
+[2018.05.15-19.13.42:198][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level1
+[2018.05.15-19.13.42:232][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033858s)
+[2018.05.15-19.13.42:233][142]LogAIModule: Creating AISystem for world Level1
+[2018.05.15-19.13.42:233][142]LogPlayLevel: PIE: World Init took: (0.000994s)
+[2018.05.15-19.13.42:234][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level1.Level1 to /Game/Maps/UEDPIE_0_Level1.Level1 (0.035117s)
+[2018.05.15-19.13.42:265][142]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.15-19.13.42:297][142]LogInit: FAudioDevice initialized.
+[2018.05.15-19.13.42:318][142]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//OSCListener///Thread_553c_0///####STATCAT_Advanced#### old //STATGROUP_Threads//OSCListener///Thread_1af0_0///####STATCAT_Advanced####
+[2018.05.15-19.13.42:333][142]LogLoad: Game class is 'Game_C'
+[2018.05.15-19.13.42:339][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2018.05.15-14.13.42
+[2018.05.15-19.13.42:340][142]LogWorld: Bringing up level for play took: 0.006005
+[2018.05.15-19.13.42:343][142]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.GameWidget_C_9
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_colleted_Text_0:003D
+[2018.05.15-19.13.42:343][142]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_colleted_Text_0' from node: Return Node in graph: Get_colleted_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.13.42:344][142]LogScript: Warning: Accessed None trying to read property PlayerOne Reference
+	GameWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_9.GameWidget_C_9
+	Function /Game/Blueprints/Player/GUI/GameWidget.GameWidget_C:Get_totalcollectibles_Text_0:003D
+[2018.05.15-19.13.42:344][142]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property PlayerOne Reference from function: 'Get_totalcollectibles_Text_0' from node: Return Node in graph: Get_totalcollectibles_Text_0 in object: GameWidget with description: Accessed None trying to read property PlayerOne Reference
+[2018.05.15-19.13.42:344][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level1 0.444
+[2018.05.15-19.13.42:345][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.13.51:092][577]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.13.51:092][577]LogOSC: Display: Stop listening
+[2018.05.15-19.13.51:171][577]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Level1.Level1:PersistentLevel.Level1'
+[2018.05.15-19.13.51:905][621]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.15-19.14.13:210][673]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.14.58:612][752]LogHttp: Warning: 0000019C6A233700: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.14.58:612][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.14.58:612][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 1 (  Trying 52.202.10.140...)
+[2018.05.15-19.14.58:612][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.202.10.140) port 443 (#18))
+[2018.05.15-19.14.58:613][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.14.58:613][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.14.58:613][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.14.58:613][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.14.58:613][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.14.58:613][752]LogHttp: Warning: 0000019C6A233700: libcurl info message cache 8 (Closing connection 18)
+[2018.05.15-19.15.10:035][ 61]BlueprintLog: New page: Compile Level1
+[2018.05.15-19.16.06:477][455]BlueprintLog: New page: Compile Tree
+[2018.05.15-19.16.58:673][354]LogHttp: Warning: 0000019CAB77C700: request failed, libcurl error: 35 (SSL connect error)
+[2018.05.15-19.16.58:673][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.05.15-19.16.58:673][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 1 (  Trying 52.4.186.227...)
+[2018.05.15-19.16.58:674][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.4.186.227) port 443 (#19))
+[2018.05.15-19.16.58:674][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2018.05.15-19.16.58:674][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.05.15-19.16.58:674][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.05.15-19.16.58:674][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.05.15-19.16.58:674][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 7 (Unknown SSL protocol error in connection to datarouter.ol.epicgames.com:443 )
+[2018.05.15-19.16.58:674][354]LogHttp: Warning: 0000019CAB77C700: libcurl info message cache 8 (Closing connection 19)
+[2018.05.15-19.17.02:330][750]LogUObjectBase: Warning: Object is not registered
+[2018.05.15-19.17.02:611][750]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.212 s
+[2018.05.15-19.17.02:611][750]LogOutputDevice: Error: === Handled ensure: ===
+[2018.05.15-19.17.02:611][750]LogOutputDevice: Error: 
+[2018.05.15-19.17.02:611][750]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.05.15-19.17.02:611][750]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.05.15-19.17.02:611][750]LogOutputDevice: Error: Stack: 
+[2018.05.15-19.17.02:611][750]LogOutputDevice: Error: [Callstack] 0x0000000003F4B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000003CAAE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000003CBECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000F7EB3DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000FCC0B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000FA9EC22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000FA8777AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000FA87AEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000FA9B6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000002FA6057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000002FABB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000031DC253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000003000475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000002FD8360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000002FCB197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x000000000EE5E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x000000000EE51B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x000000000EE6052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x000000000EE4D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000039D4B85D USER32.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x0000000039D4B1EF USER32.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x000000000EE61666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000794B5475 UE4Editor.exe!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000794C6BD0 UE4Editor.exe!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000794C6C4A UE4Editor.exe!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000794D4149 UE4Editor.exe!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x00000000794D5B57 UE4Editor.exe!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x000000003A711FE4 KERNEL32.DLL!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: [Callstack] 0x000000003B24F061 ntdll.dll!UnknownFunction []
+[2018.05.15-19.17.02:612][750]LogOutputDevice: Error: 
+[2018.05.15-19.17.02:613][750]LogStats:                SubmitErrorReport -  0.000 s
