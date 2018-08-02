@@ -1,0 +1,22 @@
+* Install OSCP5 on the Processing library
+*Make sure you have Git installed on the computer to be able to use git commands (https://git-scm.com/)
+ 
+			HOW TO USE GIT:
+*Ignore {} as part of the command
+
+-(Make sure if you are pulling/pushing...that you are in the folder that was cloned (to be able to use git commands))
+-(Start every command with 'git' ex: 'git push')
+
+--clone {insert link of the repository} -> will clone the repository onto the computer/any place specified (use: 'cd desktop' to access desktop and have it cloned there)
+
+--status -> checks what files you have edited in the repository(do this before you push)
+
+--add {insert fileName here or use '*' to add all}-> will add whatever files specified to the list of what you want to commit
+
+--commit -m "Insert message here" {comments will show up in the git webpage} -> will commit all your _added_ files[as show on top]
+
+--push -> will push everything you committed to the repository and upload the comment connected to the [commit]
+
+--pull -> will pull everything that is uploaded to the git website's repository (Aka just all the files on the project)
+
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
